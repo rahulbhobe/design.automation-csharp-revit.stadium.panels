@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="DBApplication">
+    <Name>StadiumPanels</Name>
+    <Assembly>.\DA4R_StadiumPanels.dll</Assembly>
+    <AddInId>D68EA479-910D-4E8A-9AEC-D7F4B9CE0847</AddInId>
+    <FullClassName>StadiumPanels.StadiumPanels</FullClassName>
+    <Description>"Generate Stadium panels."</Description>
+    <VendorId>Autodesk</VendorId>
+    <VendorDescription>Autodesk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

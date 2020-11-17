@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "name": "RectangularOpening",
+            "weight": 1,
+            "params": [
+                {
+                    "name": "opening",
+                    "min": 0.08,
+                    "max": 0.35
+                }
+            ]
+        },
+        {
+            "name": "CircularOpening",
+            "weight": 1,
+            "params": [
+                {
+                    "name": "opening",
+                    "min": 5,
+                    "max": 25
+                }
+            ]
+        }
+    ]
+}
